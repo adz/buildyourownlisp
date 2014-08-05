@@ -15,6 +15,7 @@
 *.dylib
 
 # Executables
+/prompt
 *.exe
 *.out
 *.app
